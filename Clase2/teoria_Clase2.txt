@@ -1,0 +1,20 @@
+Carga de los ítems:
+    -Hacer una para cargar un nuevo ítem?
+
+Busqueda:
+    -Buscar ítems actualmente listados mediante el campo de busqueda
+    -Cambiar los ítems mostrados
+
+Layout:
+    -Modificar el layout para que sea adaptable
+
+Barra de menú:
+    -Quitar: ítem 1, ítem 2, etc?
+    -Agregar nuevo ítem -> campo de texto
+
+Barra lateral:
+    -Agregar limpiar lista
+    -Agregar guardar lista
+
+Busqueda:
+    -Buscar ítems actualmente buscados
