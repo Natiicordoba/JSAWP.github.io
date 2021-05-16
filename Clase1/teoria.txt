@@ -1,0 +1,30 @@
+JavaScript AWP: aplicaciones web progresivas
+
+
+Un sitio AWP es un sitio que se va transformando en una aplicación como las que usamos en el celular.
+
+AirHorner:
+------------------------
+1- Tiene un install
+2- Es interactiva
+3- Funciona offline, pero necesita un install en la web
+4- Tiene una función específica
+5- Funcional en desktop y mobile
+6- Es gratis
+7- Es responsive
+8- Si la descargo o no, brinda la misma funcionalidad
+
+ES INSTALABLE
+ES SEGURA: HTTPS
+FUNCIONA offline
+
+
+Desarrollar una AWP es incorporar estas características a un sitio ya hecho:
+    - Segura => trascurso clase 1 subiendola a un servidor HTTPS(como GitHub Pages)
+    - Instalable => clase 3
+    - Funcione offLine => clases 5 y 6
+
+API REST => SI => HTTP
+
+Offline - First
+LocalStorage
