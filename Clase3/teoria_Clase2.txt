@@ -1,0 +1,22 @@
+Carga de los ítems:
+    -Hacer una para cargar un nuevo ítem?
+
+Busqueda (Beta):
+    -Buscar ítems actualmente listados mediante el campo de busqueda
+    -Cambiar los ítems mostrados
+
+Layout:
+    -Modificar el layout para que sea adaptable
+
+Barra de menú:(Beta)
+    -Deshacer: llevar los datos a un estado anterior
+    -Agregar nuevo ítem -> campo de texto
+
+Barra lateral (Beta):
+    -Agregar limpiar lista
+    -Agregar guardar lista
+    -Agregar cargar lista
+        
+
+Busqueda:
+    -Buscar ítems actualmente buscados

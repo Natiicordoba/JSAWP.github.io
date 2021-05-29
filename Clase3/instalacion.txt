@@ -1,0 +1,28 @@
+1- Preparar la instalación
+    Decir que voy a instalar
+    "Commit"
+
+2- Efectuar la instalación
+    Realizar el copiado de archivos
+    "Push"
+
+Equivalencias en una AWP
+
+1- Indicar al Browser que está ante un sitio instalable
+Agregar el "Añanadir a la pantalla de inicio"
+
+2- Copiar los archivos estáticos a la cache (clase 6)
+
+Que vimos? Por que?
+
+Hacer instalable la aplicación / el SITIO
+
+1. indicar al browser  que este sitio es un sitio instalable
+    -Indicar el nombre de la aplicación
+    -Indicar iconos
+    -Definir la forma en la que se visualiza el sitio
+    -Manifest.json
+
+2. Programar la lógica necesaria para efectuar la instalación 
+    -Crear el proceso de copiado de archivos a la cache.
+    -Services Worker/Cache
